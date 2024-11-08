@@ -25,7 +25,7 @@
 Windows -> **PowerShell**:
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/NotMephisto/Comfy-matugen/main/install.ps1 | iex
 ```
 
 macOS and Linux -> **Bash**:
