@@ -31,7 +31,7 @@ iwr -useb https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.p
 macOS and Linux -> **Bash**:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/NYRI4/Comfy-spicetify/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/NotMephisto/Comfy-matugen/main/install.sh | sh
 ```
 
 ### 📥 Manual Installation
